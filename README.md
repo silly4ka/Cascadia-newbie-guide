@@ -58,7 +58,7 @@ sudo journalctl -u cascadiad -f -o cat
 ```
 *Also check discord for additional instructions!  
 
-*Is your console full of errors & node doesn't work?
+*Is your console full of errors & node doesn't work?  
  ^ check [Discord](https://discord.gg/cascadia) & [Telegram:Validators group](https://t.me/CascadiaValidators) - you might have missed something - smart guys will tell you
 
 Will update happen when you are busy and you want to update an advance??  
