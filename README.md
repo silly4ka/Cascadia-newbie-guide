@@ -15,7 +15,7 @@ To get started, you'll find useful links to community chats  like this (they wil
 
 Now you need to visit next platforms 
 * [Zealy](https://zealy.io/c/cascadia) - Confirm some quests here
-* [Coordinape](https://app.coordinape.com/join/0532e404-c13d-4b4a-92d3-29732b3738b0) - Leave reports about contributions here (it's important)  
+* [Coordinape](https://app.coordinape.com/join/0532e404-c13d-4b4a-92d3-29732b3738b0) - Leave reports about contributions here & encourage contributions of others with GIVE (it's important)  
 ^ [How to use Coordinape Guide]( https://medium.com/@CascadiaFoundation/cascadias-coordinape-handbook-63696877c898)
 
 # Chapter 2 "Update will be at 7am, how to survive??"
@@ -116,4 +116,4 @@ Popularize the project
 Make guides (like how i did it)  
 In general - to contribute  
 
-(don't forget about reports on [Coordinape](https://app.coordinape.com/join/0532e404-c13d-4b4a-92d3-29732b3738b0) bye :3 )
+(don't forget about reports on [Coordinape](https://app.coordinape.com/join/0532e404-c13d-4b4a-92d3-29732b3738b0) & encourage contributions of others with GIVE, bye :3 )
