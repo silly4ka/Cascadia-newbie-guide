@@ -1,5 +1,6 @@
 # Cascadia new validator (compact) guide
 ![266290813-ad3e3dfe-b3dd-46a2-a49f-49a2409d603b](https://github.com/silly4ka/Cascadia-newbie-guide/assets/100471481/760f2c19-d61a-44a8-ba04-463ebe8eec88)
+[RU_VERSION](https://github.com/silly4ka/Cascadia-newbie-guide/blob/main/README_RU.md)
 # Chapter 1 "Second steps"   
   
 Ok, you rented hosting, installed a node on it and created a validator, now its sign blocks, right?  
@@ -66,7 +67,7 @@ Don't do this, you'll have to roll back to previos version, it's better to be a 
 
 # Chapter 3 "My node stop sign blocks!! This is the end of the universe???"
 
-Calm down again, check your voting power - if that less than in the top 100 Validators - ask for delegation   
+Calm down again, check your voting power - if that less than in the top 100 Validators - ask for delegation (if actual - check reputation chapter)  
 Voting power is ok? - Check your version & actual, also chek journal  
 ```
 cascadiad version
@@ -116,4 +117,11 @@ Popularize the project
 Make guides (like how i did it)  
 In general - to contribute  
 
-(don't forget about reports on [Coordinape](https://app.coordinape.com/join/0532e404-c13d-4b4a-92d3-29732b3738b0) & encourage contributions of others with GIVE, bye :3 )
+* A new reputation system in Discord
+This is a pretty important mechanism and should be taken seriously.
+A script will be attached to this reputation that will automatically distribute delegations from *admins pool*
+You shouldn’t vote because you were asked to, vote only if you see some work and investments in the project - this could be constant support for beginners, guides, useful resources, prepared configs, infographics, etc.
+If we give points to *panhandlers* and not give them to real hard workers, in the end, the rewards will not be given to those who deserve it.
+
+
+(don't forget about reports on [Coordinape](https://app.coordinape.com/join/0532e404-c13d-4b4a-92d3-29732b3738b0) & encourage contributions of others with GIVE, bye :3 - And be carefull with reputation)
