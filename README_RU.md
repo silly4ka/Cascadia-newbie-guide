@@ -1,6 +1,9 @@
 # Cascadia new validator (compact) guide - RU ВЕРСИЯ
 ![266290813-ad3e3dfe-b3dd-46a2-a49f-49a2409d603b](https://github.com/silly4ka/Cascadia-newbie-guide/assets/100471481/760f2c19-d61a-44a8-ba04-463ebe8eec88)
 [RU_VERSION](https://github.com/silly4ka/Cascadia-newbie-guide/blob/main/README_RU.md)
+
+# !!!ПРОЕКТ CASCADIA ЗАКРЫТ!!!
+
 # Глава 1 "Вторые шаги"   
   
 Ок, вы арендовали хостинг, установили ноду и создали валидатора, сейчас он подписывает блоки, верно?  
